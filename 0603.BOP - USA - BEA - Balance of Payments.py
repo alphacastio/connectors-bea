@@ -19,7 +19,7 @@ alphacast = Alphacast(API_KEY)
 # • Data volume retrieved per minute (100 MB), and/or
 # • Errors per minute (30)
 
-BEA_API_KEY= '34217209-AFB8-419F-B080-AD1CF363FF96'
+BEA_API_KEY= 'XX'
 
 
 # In[6]:
